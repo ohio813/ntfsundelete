@@ -6,7 +6,7 @@
 
     Authors:
       Alexander Malashonok
-      Fedir Nepyivoda
+      Fedir Nepyivoda <fednep@gmail.com>
 
 
 
