@@ -1,0 +1,14 @@
+/* Sets element margins, padding, and border to 0 to even out browser differences when adding desired values later. */
+
+td {
+    font-family: tahoma,sans-serif;
+    text-align:left;
+    font-size:12px;
+}
+
+
+p {
+    font-family: tahoma,sans-serif;
+    font-size:12px;
+}
+
