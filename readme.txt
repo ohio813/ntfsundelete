@@ -32,7 +32,7 @@ How to Compile
 
 2.1. Patch Python For Delphi to support Python 2.4
     (patch in the "PythonForDelphiPatch" folder)
-    Support for later python releases can be added similary (view the contents of the PythonEngine.pas fil)
+    Support for later python releases can be added similary (view the contents of the PythonEngine.pas)
 
 3. Install Python
 
